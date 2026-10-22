@@ -40,7 +40,6 @@ PlayerSettings:
     Android: 0
   m_BuildTargetGroupLightmapEncodingQuality: []
   m_BuildTargetGroupHDRCubemapEncodingQuality: []
-  m_BuildTargetGroupLoadStoreDebugModeTest: []
   m_BuildTargetVRSettings: []
   m_BuildTargetDefaultTextureCompressionFormat: []
   m_BuildTargetShaderSettings: []
