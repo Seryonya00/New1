@@ -321,7 +321,7 @@ func _unhandled_input(event: InputEvent) -> void:
         elif event.index == touch_look_id:
             touch_look_id = -1
     elif event is InputEventScreenDrag and event.index == touch_look_id:
-        var drag := event.position - last_touch
+        var drag: Vector2 = event.position - last_touch
         if event.position.x > get_viewport().get_visible_rect().size.x * 0.35:
             player.rotate_y(-drag.x * look_sensitivity)
             camera.rotate_x(-drag.y * look_sensitivity)
