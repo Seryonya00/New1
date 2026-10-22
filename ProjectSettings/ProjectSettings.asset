@@ -23,7 +23,6 @@ PlayerSettings:
     Android: 1
   managedStrippingLevel:
     Android: 1
-  incrementalIl2cppBuild: 1
   AndroidTargetArchitectures: 2
   AndroidMinSdkVersion: 23
   AndroidTargetSdkVersion: 35
@@ -38,7 +37,6 @@ PlayerSettings:
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode:
     Android: 0
-  m_BuildTargetGroupLightmapEncodingQuality: []
   m_BuildTargetGroupHDRCubemapEncodingQuality: []
   m_BuildTargetVRSettings: []
   m_BuildTargetDefaultTextureCompressionFormat: []
